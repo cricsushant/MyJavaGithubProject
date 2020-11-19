@@ -7,5 +7,8 @@ public class ClientApp {
 		
 		Person p1 = new Person("Jay", 34, 102.1);
 		System.out.println(p1);
+		
+		Person p2 = new Person("Sujal", 14, 102.1);
+		System.out.println(p2);
 	}
 }
