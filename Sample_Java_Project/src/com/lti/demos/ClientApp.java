@@ -10,5 +10,8 @@ public class ClientApp {
 		
 		Person p2 = new Person("Sujal", 14, 102.1);
 		System.out.println(p2);
+		
+		Person p3 = new Person("Sujal", 16, 122.1);
+		System.out.println(p3);
 	}
 }
